@@ -14,7 +14,7 @@ I'm a passionate and versatile 20-year-old software engineer known as Lonewolf w
 ### Skills
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -115,8 +115,10 @@ I'm a passionate and versatile 20-year-old software engineer known as Lonewolf w
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/aL0NEW0LF"><img src="https://github-readme-stats.vercel.app/api?username=aL0NEW0LF&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=444e59&bg_color=171717&hide_border=true&show_icons=true" alt="aL0NEW0LF's GitHub stats" /></a>
+<a href="http://www.github.com/aL0NEW0LF"><img src="https://github-readme-stats.vercel.app/api?username=aL0NEW0LF&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=444e59&bg_color=101010&hide_border=true&show_icons=true" alt="aL0NEW0LF's GitHub stats" /></a>
 
-<a href="http://www.github.com/aL0NEW0LF"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aL0NEW0LF&stroke=ffffff&background=171717&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/aL0NEW0LF"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aL0NEW0LF&stroke=ffffff&background=101010&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/aL0NEW0LF" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aL0NEW0LF&langs_count=10&title_color=000000&text_color=ffffff&icon_color=444e59&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/aL0NEW0LF" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aL0NEW0LF&langs_count=10&title_color=000000&text_color=ffffff&icon_color=444e59&bg_color=101010&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aL0NEW0LF&radius=16&area=true&order=5&bg_color=101010&color=ffffff&line=39D353&area_color=39D353&point=006D32&title_color=000000&hide_title=true" height="400" alt="activity-graph graph"  />
